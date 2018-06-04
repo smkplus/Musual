@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 115
-    y: 798
+    x: 20
+    y: 20
     width: 0
     height: 0
   m_ShowMode: 0
@@ -366,13 +366,13 @@ MonoBehaviour:
     height: 361
   m_SceneLighting: 1
   lastFramingTime: 3534.54359231389
-  m_2DMode: 1
+  m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.698704, y: 5.639499, z: -2.0591028}
+    m_Target: {x: -0.42520842, y: 1.1477184, z: 1.6405048}
     speed: 2
-    m_Value: {x: -9.698704, y: 5.639499, z: -2.0591028}
+    m_Value: {x: -0.42520842, y: 1.1477184, z: 1.6405048}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -387,25 +387,25 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    zGrid:
       m_Target: 1
       speed: 2
       m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: 0.0015689787, y: 0.8798169, z: -0.47530144, w: 0.002904061}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: 0.0015689787, y: 0.8798169, z: -0.47530144, w: 0.002904061}
   m_Size:
-    m_Target: 2.8578837
+    m_Target: 10
     speed: 2
-    m_Value: 2.8578837
+    m_Value: 10
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
@@ -441,9 +441,9 @@ MonoBehaviour:
     height: 361
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16070000
-    m_LastClickedID: 0
-    m_ExpandedIDs: a6fbffff00000000
+    m_SelectedIDs: 14280000
+    m_LastClickedID: 10260
+    m_ExpandedIDs: acf9ffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -462,7 +462,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
   m_ExpandedScenes:
-  - 
+  - Example
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -488,10 +488,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 434
-    y: 92.6
-    width: 823
-    height: 360
+    x: 376
+    y: 92
+    width: 708
+    height: 361
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -520,25 +520,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 823
-      height: 343
-    m_Scale: {x: 0.4466146, y: 0.4466146}
-    m_Translation: {x: 411.5, y: 171.5}
+      width: 708
+      height: 344
+    m_Scale: {x: 0.44791666, y: 0.44791666}
+    m_Translation: {x: 354, y: 172}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -921.3761
+      x: -790.3256
       y: -384
-      width: 1842.7522
+      width: 1580.6512
       height: 768
     m_MinimalGUI: 1
-  m_defaultScale: 0.4466146
+  m_defaultScale: 0.44791666
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 823, y: 360}
+  m_LastWindowPixelSize: {x: 708, y: 361}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -606,19 +606,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scene
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scene
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Smkgames\Documents\GitHub\ShaderMan
+  m_LastProjectPath: C:\Users\Smkgames\Documents\GitHub\Musual
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea270000
-    m_LastClickedID: 10218
-    m_ExpandedIDs: 8a27000000ca9a3bffffff7f
+    m_SelectedIDs: a0270000
+    m_LastClickedID: 10144
+    m_ExpandedIDs: 2e27000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
